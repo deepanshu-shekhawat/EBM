@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RideLink Community Commute",
+  "description": "A modern ride-sharing application that connects commuters. Features include on-demand rides, live bus tracking, and an intelligent community-building tool to create regular carpools and bike-pools based on user schedules and routes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
